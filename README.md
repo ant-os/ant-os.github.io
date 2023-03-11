@@ -4,10 +4,15 @@ Not the best, but good enough.
 
 
 # Installation
-```Right now, there is no way to 'installing' AntOS. You will need to compile it!```
+```
+Right now, there is no way to 'installing' AntOS.
+You will need to compile it!
+```
 
 # What is AntOS
-```AntOS is a open source Operating System developed by Proton.```
+```
+AntOS is a open source Operating System developed by Proton.
+```
 
 # System Requerments
 ```
