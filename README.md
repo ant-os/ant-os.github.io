@@ -21,9 +21,3 @@ You will need to compile it!
 AntOS runs on most uefi machines.
 But remember that it may have bug... please report them if you can!
 ```
--------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------
-
-   ```
-    EXPLORE THE REPO!
-   ```
