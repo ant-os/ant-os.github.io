@@ -1,4 +1,3 @@
-# AntOS
 
 ## What is AntOS
 ```
