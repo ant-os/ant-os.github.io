@@ -1,3 +1,5 @@
+<meta name="keywords" content="AntOS, operating system, open-source; AntOS Project, Joscha Egloff, Proton, Not the best, but good enough!">
+
 # AntOS
 
 ## What is AntOS
